@@ -20,33 +20,33 @@
       "favicon_url": null,
       "hero_message": "I made a little something for you...",
       "footer_text": "Made with love by Nayan ❤️",
-      "music_url": null,
+      "music_url": "/uploads/1789835894572-Tum_Ho_Rockstar_320_Kbps.mp3",
       "music_autoplay": true,
       "music_loop": true,
       "bg_effects_enabled": true,
-      "bg_effects_type": "hearts",
+      "bg_effects_type": "petals",
       "bg_effects_density": 4,
       "bg_effects_speed": 3,
       "created_at": "2026-09-19T10:36:21.092Z",
-      "updated_at": "2026-09-19T11:21:21.141Z"
+      "updated_at": "2026-09-19T17:16:43.843Z"
     },
     "theme": {
       "id": "mock-theme-1",
       "page_id": "mock-page-1",
-      "bg_color": "#FFF0F6",
-      "primary_color": "#E91E8C",
-      "secondary_color": "#AD1457",
+      "bg_color": "#FFF5F5",
+      "primary_color": "#C0392B",
+      "secondary_color": "#7B241C",
       "card_color": "#FFFFFF",
-      "text_color": "#6B1E4B",
-      "muted_text_color": "#B06090",
-      "border_color": "#F9C5E0",
-      "button_color": "#E91E8C",
+      "text_color": "#5D1A1A",
+      "muted_text_color": "#9B6565",
+      "border_color": "#FADADD",
+      "button_color": "#C0392B",
       "button_text_color": "#FFFFFF",
       "heading_font": "Playfair Display",
       "body_font": "Inter",
-      "border_radius": "20px",
+      "border_radius": "16px",
       "shadow_intensity": "md",
-      "preset_name": "Blush"
+      "preset_name": "Rose"
     },
     "sections": [
       {
@@ -60,7 +60,8 @@
           "heading": "To My Forever Person 💖",
           "subheading": "Charan",
           "message": "I made a little something for you...",
-          "show_scroll_indicator": true
+          "show_scroll_indicator": true,
+          "background_image_url": "/uploads/1789836632831-WhatsApp_Image_2026-09-19_at_22.20.00.jpeg"
         },
         "created_at": "2026-09-19T10:36:21.092Z"
       },
@@ -74,7 +75,7 @@
         "config": {
           "title": "Aren't we cute? 👀",
           "description": "Click to reveal something special...",
-          "image_url": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=400",
+          "image_url": "/uploads/1789816852875-WhatsApp_Image_2026-09-18_at_20.25.45.jpeg",
           "reveal_text": "Tap to reveal ✨",
           "post_reveal_message": "We really are though 🥹"
         },
@@ -118,7 +119,7 @@
         "config": {
           "heading": "Time Together",
           "subtitle": "Every second with you is a gift",
-          "start_date": "2022-06-12",
+          "start_date": "2024-02-12",
           "start_time": "18:30",
           "timezone": "Asia/Kolkata"
         },
@@ -188,7 +189,7 @@
         "config": {
           "heading": "Our Memories 📸",
           "subtitle": "Every picture tells our story",
-          "layout": "carousel"
+          "layout": "masonry"
         },
         "created_at": "2026-09-19T10:36:21.092Z"
       },
@@ -274,7 +275,8 @@
         "description": "The day everything started. The moment I met you, I knew something had changed forever. I just didn't know how to say it yet.",
         "location": "Ludhiana",
         "emoji": "❤️",
-        "order_index": 0
+        "order_index": 0,
+        "image_url": "/uploads/1789836632823-WhatsApp_Image_2026-09-19_at_22.20.00__2_.jpeg"
       },
       {
         "id": "t2",
@@ -284,7 +286,8 @@
         "description": "Nervous, excited, and completely unable to stop smiling. Every moment felt like something out of a movie.",
         "location": "Bon Gateu Cafe",
         "emoji": "🍽️",
-        "order_index": 1
+        "order_index": 1,
+        "image_url": "/uploads/1789836632831-WhatsApp_Image_2026-09-19_at_22.20.00.jpeg"
       }
     ],
     "reasons": [
@@ -358,61 +361,58 @@
         "id": "m5",
         "page_id": "mock-page-1",
         "image_url": "/uploads/1789816852875-WhatsApp_Image_2026-09-18_at_20.25.45.jpeg",
-        "caption": "Remember this day?",
-        "date": "2023-12-25",
-        "order_index": 0
+        "caption": "Our Pre Wedding",
+        "date": "2026-09-05",
+        "order_index": 0,
+        "location": "Solan"
       },
       {
-        "id": "m2",
+        "id": "memory-1789837661448",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=400",
-        "caption": "Laughing about nothing",
-        "date": "2022-11-15",
+        "image_url": "/uploads/1789836632780-WhatsApp_Image_2026-09-19_at_22.17.47.jpeg",
+        "caption": "A sweet memory together",
+        "date": "2026-03-06",
+        "location": "Ludhiana",
         "order_index": 1
       },
       {
-        "id": "m1",
+        "id": "memory-1789837763148",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=400",
-        "caption": "That evening we stayed out too late",
-        "date": "2022-09-10",
-        "location": "Hyderabad",
+        "image_url": "/uploads/1789836632823-WhatsApp_Image_2026-09-19_at_22.20.00__2_.jpeg",
+        "caption": "Proposal to my babe",
+        "date": "",
+        "location": "Chandigarh",
         "order_index": 2
       },
       {
-        "id": "m3",
+        "id": "memory-1789837869315",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=400",
-        "caption": "A perfect ordinary day",
-        "date": "2023-03-22",
+        "image_url": "/uploads/1789836632859-WhatsApp_Image_2026-09-19_at_22.20.01__2_.jpeg",
+        "caption": "Mwahhhhhhhh",
+        "date": "",
+        "location": "Ludhiana",
         "order_index": 3
       },
       {
-        "id": "m4",
+        "id": "memory-1789837904450",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=400",
-        "caption": "This one is my favorite",
-        "date": "2023-07-04",
+        "image_url": "/uploads/1789836632802-WhatsApp_Image_2026-09-19_at_22.19.27.jpeg",
+        "caption": "Our Photo Booth",
+        "date": "",
+        "location": "Chandigarh",
         "order_index": 4
-      },
-      {
-        "id": "m6",
-        "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
-        "caption": "One of my favorite memories",
-        "date": "2024-02-14",
-        "order_index": 5
       }
     ],
     "songs": [
       {
         "id": "sg1",
         "page_id": "mock-page-1",
-        "title": "Perfect",
-        "artist": "Ed Sheeran",
+        "title": "Kuch Khaas hai",
+        "artist": "",
         "description": "This one always reminds me of us.",
-        "youtube_url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-        "order_index": 0
+        "youtube_url": "",
+        "order_index": 0,
+        "spotify_url": "https://open.spotify.com/track/01npLGQTbZBIHVRcXJbLzR?si=f5fdc919c25143f0"
       },
       {
         "id": "sg2",
@@ -488,7 +488,7 @@
             "id": "a3",
             "question_id": "q2",
             "text": "Nayan",
-            "is_correct": true,
+            "is_correct": false,
             "response_message": "Because I can't go too long without talking to you 🥹",
             "order_index": 0
           },
@@ -496,7 +496,7 @@
             "id": "a4",
             "question_id": "q2",
             "text": "Charan",
-            "is_correct": false,
+            "is_correct": true,
             "response_message": "Sometimes! But usually it's me 😄",
             "order_index": 1
           }
@@ -512,17 +512,17 @@
           {
             "id": "a5",
             "question_id": "q3",
-            "text": "Words of Affirmation",
-            "is_correct": false,
-            "response_message": "Close! But not quite 😊",
+            "text": "Physical Touch",
+            "is_correct": true,
+            "response_message": "Yes! I just want to be with you 🥰",
             "order_index": 0
           },
           {
             "id": "a6",
             "question_id": "q3",
             "text": "Quality Time",
-            "is_correct": true,
-            "response_message": "Yes! I just want to be with you 🥰",
+            "is_correct": false,
+            "response_message": "Close! But not quite 😊",
             "order_index": 1
           },
           {
@@ -545,7 +545,7 @@
           {
             "id": "a8",
             "question_id": "q4",
-            "text": "Jubilee Hills",
+            "text": "Bon Gateu and Iscon Mandir",
             "is_correct": true,
             "response_message": "You remember! That evening was perfect 🥹",
             "order_index": 0
@@ -553,7 +553,7 @@
           {
             "id": "a9",
             "question_id": "q4",
-            "text": "Banjara Hills",
+            "text": "South City",
             "is_correct": false,
             "response_message": "Not quite! Try again 😄",
             "order_index": 1
@@ -561,7 +561,7 @@
           {
             "id": "a10",
             "question_id": "q4",
-            "text": "Hitech City",
+            "text": "My Home",
             "is_correct": false,
             "response_message": "Nope! Think harder 😊",
             "order_index": 2
@@ -700,33 +700,33 @@
       "favicon_url": null,
       "hero_message": "I made a little something for you...",
       "footer_text": "Made with love by Nayan ❤️",
-      "music_url": null,
+      "music_url": "/uploads/1789835894572-Tum_Ho_Rockstar_320_Kbps.mp3",
       "music_autoplay": true,
       "music_loop": true,
       "bg_effects_enabled": true,
-      "bg_effects_type": "hearts",
+      "bg_effects_type": "petals",
       "bg_effects_density": 4,
       "bg_effects_speed": 3,
       "created_at": "2026-09-19T10:36:21.092Z",
-      "updated_at": "2026-09-19T11:21:21.141Z"
+      "updated_at": "2026-09-19T17:16:43.843Z"
     },
     "theme": {
       "id": "mock-theme-1",
       "page_id": "mock-page-1",
-      "bg_color": "#FFF0F6",
-      "primary_color": "#E91E8C",
-      "secondary_color": "#AD1457",
+      "bg_color": "#FFF5F5",
+      "primary_color": "#C0392B",
+      "secondary_color": "#7B241C",
       "card_color": "#FFFFFF",
-      "text_color": "#6B1E4B",
-      "muted_text_color": "#B06090",
-      "border_color": "#F9C5E0",
-      "button_color": "#E91E8C",
+      "text_color": "#5D1A1A",
+      "muted_text_color": "#9B6565",
+      "border_color": "#FADADD",
+      "button_color": "#C0392B",
       "button_text_color": "#FFFFFF",
       "heading_font": "Playfair Display",
       "body_font": "Inter",
-      "border_radius": "20px",
+      "border_radius": "16px",
       "shadow_intensity": "md",
-      "preset_name": "Blush"
+      "preset_name": "Rose"
     },
     "sections": [
       {
@@ -740,7 +740,8 @@
           "heading": "To My Forever Person 💖",
           "subheading": "Charan",
           "message": "I made a little something for you...",
-          "show_scroll_indicator": true
+          "show_scroll_indicator": true,
+          "background_image_url": "/uploads/1789836632831-WhatsApp_Image_2026-09-19_at_22.20.00.jpeg"
         },
         "created_at": "2026-09-19T10:36:21.092Z"
       },
@@ -754,7 +755,7 @@
         "config": {
           "title": "Aren't we cute? 👀",
           "description": "Click to reveal something special...",
-          "image_url": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=400",
+          "image_url": "/uploads/1789816852875-WhatsApp_Image_2026-09-18_at_20.25.45.jpeg",
           "reveal_text": "Tap to reveal ✨",
           "post_reveal_message": "We really are though 🥹"
         },
@@ -798,7 +799,7 @@
         "config": {
           "heading": "Time Together",
           "subtitle": "Every second with you is a gift",
-          "start_date": "2022-06-12",
+          "start_date": "2024-02-12",
           "start_time": "18:30",
           "timezone": "Asia/Kolkata"
         },
@@ -868,7 +869,7 @@
         "config": {
           "heading": "Our Memories 📸",
           "subtitle": "Every picture tells our story",
-          "layout": "carousel"
+          "layout": "masonry"
         },
         "created_at": "2026-09-19T10:36:21.092Z"
       },
@@ -954,7 +955,8 @@
         "description": "The day everything started. The moment I met you, I knew something had changed forever. I just didn't know how to say it yet.",
         "location": "Ludhiana",
         "emoji": "❤️",
-        "order_index": 0
+        "order_index": 0,
+        "image_url": "/uploads/1789836632823-WhatsApp_Image_2026-09-19_at_22.20.00__2_.jpeg"
       },
       {
         "id": "t2",
@@ -964,7 +966,8 @@
         "description": "Nervous, excited, and completely unable to stop smiling. Every moment felt like something out of a movie.",
         "location": "Bon Gateu Cafe",
         "emoji": "🍽️",
-        "order_index": 1
+        "order_index": 1,
+        "image_url": "/uploads/1789836632831-WhatsApp_Image_2026-09-19_at_22.20.00.jpeg"
       }
     ],
     "reasons": [
@@ -1038,61 +1041,58 @@
         "id": "m5",
         "page_id": "mock-page-1",
         "image_url": "/uploads/1789816852875-WhatsApp_Image_2026-09-18_at_20.25.45.jpeg",
-        "caption": "Remember this day?",
-        "date": "2023-12-25",
-        "order_index": 0
+        "caption": "Our Pre Wedding",
+        "date": "2026-09-05",
+        "order_index": 0,
+        "location": "Solan"
       },
       {
-        "id": "m2",
+        "id": "memory-1789837661448",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=400",
-        "caption": "Laughing about nothing",
-        "date": "2022-11-15",
+        "image_url": "/uploads/1789836632780-WhatsApp_Image_2026-09-19_at_22.17.47.jpeg",
+        "caption": "A sweet memory together",
+        "date": "2026-03-06",
+        "location": "Ludhiana",
         "order_index": 1
       },
       {
-        "id": "m1",
+        "id": "memory-1789837763148",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=400",
-        "caption": "That evening we stayed out too late",
-        "date": "2022-09-10",
-        "location": "Hyderabad",
+        "image_url": "/uploads/1789836632823-WhatsApp_Image_2026-09-19_at_22.20.00__2_.jpeg",
+        "caption": "Proposal to my babe",
+        "date": "",
+        "location": "Chandigarh",
         "order_index": 2
       },
       {
-        "id": "m3",
+        "id": "memory-1789837869315",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=400",
-        "caption": "A perfect ordinary day",
-        "date": "2023-03-22",
+        "image_url": "/uploads/1789836632859-WhatsApp_Image_2026-09-19_at_22.20.01__2_.jpeg",
+        "caption": "Mwahhhhhhhh",
+        "date": "",
+        "location": "Ludhiana",
         "order_index": 3
       },
       {
-        "id": "m4",
+        "id": "memory-1789837904450",
         "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=400",
-        "caption": "This one is my favorite",
-        "date": "2023-07-04",
+        "image_url": "/uploads/1789836632802-WhatsApp_Image_2026-09-19_at_22.19.27.jpeg",
+        "caption": "Our Photo Booth",
+        "date": "",
+        "location": "Chandigarh",
         "order_index": 4
-      },
-      {
-        "id": "m6",
-        "page_id": "mock-page-1",
-        "image_url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
-        "caption": "One of my favorite memories",
-        "date": "2024-02-14",
-        "order_index": 5
       }
     ],
     "songs": [
       {
         "id": "sg1",
         "page_id": "mock-page-1",
-        "title": "Perfect",
-        "artist": "Ed Sheeran",
+        "title": "Kuch Khaas hai",
+        "artist": "",
         "description": "This one always reminds me of us.",
-        "youtube_url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-        "order_index": 0
+        "youtube_url": "",
+        "order_index": 0,
+        "spotify_url": "https://open.spotify.com/track/01npLGQTbZBIHVRcXJbLzR?si=f5fdc919c25143f0"
       },
       {
         "id": "sg2",
@@ -1168,7 +1168,7 @@
             "id": "a3",
             "question_id": "q2",
             "text": "Nayan",
-            "is_correct": true,
+            "is_correct": false,
             "response_message": "Because I can't go too long without talking to you 🥹",
             "order_index": 0
           },
@@ -1176,7 +1176,7 @@
             "id": "a4",
             "question_id": "q2",
             "text": "Charan",
-            "is_correct": false,
+            "is_correct": true,
             "response_message": "Sometimes! But usually it's me 😄",
             "order_index": 1
           }
@@ -1192,17 +1192,17 @@
           {
             "id": "a5",
             "question_id": "q3",
-            "text": "Words of Affirmation",
-            "is_correct": false,
-            "response_message": "Close! But not quite 😊",
+            "text": "Physical Touch",
+            "is_correct": true,
+            "response_message": "Yes! I just want to be with you 🥰",
             "order_index": 0
           },
           {
             "id": "a6",
             "question_id": "q3",
             "text": "Quality Time",
-            "is_correct": true,
-            "response_message": "Yes! I just want to be with you 🥰",
+            "is_correct": false,
+            "response_message": "Close! But not quite 😊",
             "order_index": 1
           },
           {
@@ -1225,7 +1225,7 @@
           {
             "id": "a8",
             "question_id": "q4",
-            "text": "Jubilee Hills",
+            "text": "Bon Gateu and Iscon Mandir",
             "is_correct": true,
             "response_message": "You remember! That evening was perfect 🥹",
             "order_index": 0
@@ -1233,7 +1233,7 @@
           {
             "id": "a9",
             "question_id": "q4",
-            "text": "Banjara Hills",
+            "text": "South City",
             "is_correct": false,
             "response_message": "Not quite! Try again 😄",
             "order_index": 1
@@ -1241,7 +1241,7 @@
           {
             "id": "a10",
             "question_id": "q4",
-            "text": "Hitech City",
+            "text": "My Home",
             "is_correct": false,
             "response_message": "Nope! Think harder 😊",
             "order_index": 2
@@ -1359,6 +1359,6 @@
       }
     ]
   },
-  "published_at": "2026-09-19T11:21:21.141Z",
-  "updated_at": "2026-09-19T11:21:21.141Z"
+  "published_at": "2026-09-19T17:16:43.843Z",
+  "updated_at": "2026-09-19T17:16:43.843Z"
 }
